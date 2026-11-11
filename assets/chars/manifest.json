@@ -437,6 +437,31 @@
   ]
  },
  {
+  "id": "korbin",
+  "file": "korbin.glb",
+  "kind": "rigged",
+  "tris": 18426,
+  "bytes": 1064212,
+  "clips": [
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Cheer",
+    "dur": 9.333
+   },
+   {
+    "name": "Shout",
+    "dur": 6.167
+   }
+  ]
+ },
+ {
   "id": "alva",
   "file": "alva.glb",
   "kind": "rigged",
