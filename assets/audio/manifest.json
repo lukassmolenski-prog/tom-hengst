@@ -1,0 +1,314 @@
+{
+ "sfx": {
+  "bell": {
+   "file": "sfx/bell.mp3",
+   "dur": 3.213,
+   "mean": -15.9
+  },
+  "block": {
+   "file": "sfx/block.mp3",
+   "dur": 2.064,
+   "mean": -19.2
+  },
+  "boss_cast": {
+   "file": "sfx/boss_cast.mp3",
+   "dur": 2.926,
+   "mean": -11.1
+  },
+  "boss_die": {
+   "file": "sfx/boss_die.mp3",
+   "dur": 5.068,
+   "mean": -15.9
+  },
+  "boss_laugh": {
+   "file": "sfx/boss_laugh.mp3",
+   "dur": 3.971,
+   "mean": -17.3
+  },
+  "boss_roar": {
+   "file": "sfx/boss_roar.mp3",
+   "dur": 3.944,
+   "mean": -15.8
+  },
+  "car_start": {
+   "file": "sfx/car_start.mp3",
+   "dur": 4.049,
+   "mean": -15.1
+  },
+  "chest": {
+   "file": "sfx/chest.mp3",
+   "dur": 3.056,
+   "mean": -21.4
+  },
+  "die_small": {
+   "file": "sfx/die_small.mp3",
+   "dur": 2.064,
+   "mean": -15.4
+  },
+  "gate": {
+   "file": "sfx/gate.mp3",
+   "dur": 5.068,
+   "mean": -15.9
+  },
+  "ghul_atk": {
+   "file": "sfx/ghul_atk.mp3",
+   "dur": 2.064,
+   "mean": -17.0
+  },
+  "ghul_cry": {
+   "file": "sfx/ghul_cry.mp3",
+   "dur": 2.064,
+   "mean": -14.6
+  },
+  "ghul_die": {
+   "file": "sfx/ghul_die.mp3",
+   "dur": 2.064,
+   "mean": -16.2
+  },
+  "heal": {
+   "file": "sfx/heal.mp3",
+   "dur": 3.056,
+   "mean": -13.8
+  },
+  "heavy": {
+   "file": "sfx/heavy.mp3",
+   "dur": 3.056,
+   "mean": -13.7
+  },
+  "hit": {
+   "file": "sfx/hit.mp3",
+   "dur": 2.064,
+   "mean": -15.0
+  },
+  "hurt": {
+   "file": "sfx/hurt.mp3",
+   "dur": 2.064,
+   "mean": -22.2
+  },
+  "knight_atk": {
+   "file": "sfx/knight_atk.mp3",
+   "dur": 2.038,
+   "mean": -13.9
+  },
+  "knight_cry": {
+   "file": "sfx/knight_cry.mp3",
+   "dur": 3.056,
+   "mean": -17.7
+  },
+  "knight_die": {
+   "file": "sfx/knight_die.mp3",
+   "dur": 3.056,
+   "mean": -17.0
+  },
+  "levelup": {
+   "file": "sfx/levelup.mp3",
+   "dur": 2.038,
+   "mean": -16.7
+  },
+  "monsterkill": {
+   "file": "sfx/monsterkill.mp3",
+   "dur": 1.933,
+   "mean": -16.8
+  },
+  "ork_atk": {
+   "file": "sfx/ork_atk.mp3",
+   "dur": 2.064,
+   "mean": -13.8
+  },
+  "ork_cry": {
+   "file": "sfx/ork_cry.mp3",
+   "dur": 3.056,
+   "mean": -15.4
+  },
+  "ork_die": {
+   "file": "sfx/ork_die.mp3",
+   "dur": 3.056,
+   "mean": -19.8
+  },
+  "potion": {
+   "file": "sfx/potion.mp3",
+   "dur": 2.038,
+   "mean": -29.5
+  },
+  "punch1": {
+   "file": "sfx/punch1.mp3",
+   "dur": 0.653,
+   "mean": -16.9
+  },
+  "punch2": {
+   "file": "sfx/punch2.mp3",
+   "dur": 0.731,
+   "mean": -18.7
+  },
+  "roll": {
+   "file": "sfx/roll.mp3",
+   "dur": 2.064,
+   "mean": -13.5
+  },
+  "spor_atk": {
+   "file": "sfx/spor_atk.mp3",
+   "dur": 2.064,
+   "mean": -16.3
+  },
+  "spor_cry": {
+   "file": "sfx/spor_cry.mp3",
+   "dur": 3.056,
+   "mean": -22.3
+  },
+  "spor_die": {
+   "file": "sfx/spor_die.mp3",
+   "dur": 3.004,
+   "mean": -19.7
+  },
+  "swing": {
+   "file": "sfx/swing.mp3",
+   "dur": 1.855,
+   "mean": -19.2
+  },
+  "vamp_atk": {
+   "file": "sfx/vamp_atk.mp3",
+   "dur": 2.038,
+   "mean": -15.5
+  },
+  "vamp_cry": {
+   "file": "sfx/vamp_cry.mp3",
+   "dur": 2.064,
+   "mean": -12.6
+  },
+  "vamp_die": {
+   "file": "sfx/vamp_die.mp3",
+   "dur": 3.056,
+   "mean": -16.4
+  },
+  "warcry": {
+   "file": "sfx/warcry.mp3",
+   "dur": 2.064,
+   "mean": -16.2
+  },
+  "whinny": {
+   "file": "sfx/whinny.mp3",
+   "dur": 2.064,
+   "mean": -18.2
+  },
+  "whirl": {
+   "file": "sfx/whirl.mp3",
+   "dur": 3.004,
+   "mean": -19.7
+  },
+  "wolf_atk": {
+   "file": "sfx/wolf_atk.mp3",
+   "dur": 2.064,
+   "mean": -18.6
+  },
+  "wolf_cry": {
+   "file": "sfx/wolf_cry.mp3",
+   "dur": 4.049,
+   "mean": -17.3
+  },
+  "wolf_die": {
+   "file": "sfx/wolf_die.mp3",
+   "dur": 3.056,
+   "mean": -19.1
+  }
+ },
+ "loops": {
+  "amb_day": {
+   "file": "sfx/amb_day.wav",
+   "dur": 7.146,
+   "mean": -17.4
+  },
+  "amb_night": {
+   "file": "sfx/amb_night.wav",
+   "dur": 7.146,
+   "mean": -13.4
+  },
+  "car_drive": {
+   "file": "sfx/car_drive.wav",
+   "dur": 7.146,
+   "mean": -14.6
+  },
+  "car_idle": {
+   "file": "sfx/car_idle.wav",
+   "dur": 5.16,
+   "mean": -15.4
+  },
+  "gallop": {
+   "file": "sfx/gallop.wav",
+   "dur": 4.142,
+   "mean": -23.1
+  },
+  "steps": {
+   "file": "sfx/steps.wav",
+   "dur": 3.149,
+   "mean": -27.2
+  }
+ },
+ "music": {
+  "arena": {
+   "file": "music/arena.mp3",
+   "dur": 70.03,
+   "gain": 1.641,
+   "mean": -21.3
+  },
+  "battle": {
+   "file": "music/battle.mp3",
+   "dur": 70.03,
+   "gain": 0.676,
+   "mean": -13.6
+  },
+  "boss": {
+   "file": "music/boss.mp3",
+   "dur": 80.04,
+   "gain": 0.708,
+   "mean": -14.0
+  },
+  "crystal": {
+   "file": "music/crystal.mp3",
+   "dur": 70.03,
+   "gain": 0.955,
+   "mean": -16.6
+  },
+  "forest": {
+   "file": "music/forest.mp3",
+   "dur": 70.03,
+   "gain": 0.912,
+   "mean": -16.2
+  },
+  "night": {
+   "file": "music/night.mp3",
+   "dur": 70.03,
+   "gain": 0.871,
+   "mean": -15.8
+  },
+  "plain": {
+   "file": "music/plain.mp3",
+   "dur": 70.03,
+   "gain": 1.023,
+   "mean": -17.2
+  },
+  "rust": {
+   "file": "music/rust.mp3",
+   "dur": 70.03,
+   "gain": 0.944,
+   "mean": -16.5
+  },
+  "title": {
+   "file": "music/title.mp3",
+   "dur": 64.03,
+   "gain": 0.794,
+   "mean": -15.0
+  },
+  "victory": {
+   "file": "music/victory.mp3",
+   "dur": 18.05,
+   "gain": 0.861,
+   "mean": -15.7
+  },
+  "village": {
+   "file": "music/village.mp3",
+   "dur": 70.03,
+   "gain": 1.084,
+   "mean": -17.7
+  }
+ }
+}

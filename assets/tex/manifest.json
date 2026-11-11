@@ -1,0 +1,66 @@
+[
+ {
+  "id": "grass",
+  "file": "grass.webp",
+  "size_px": 512,
+  "bytes": 104356,
+  "seamless": true,
+  "notes": "lush meadow grass with clover"
+ },
+ {
+  "id": "cobble",
+  "file": "cobble.webp",
+  "size_px": 512,
+  "bytes": 77828,
+  "seamless": true,
+  "notes": "cobblestone road"
+ },
+ {
+  "id": "dirt",
+  "file": "dirt.webp",
+  "size_px": 512,
+  "bytes": 68056,
+  "seamless": true,
+  "notes": "packed earth path"
+ },
+ {
+  "id": "forest",
+  "file": "forest.webp",
+  "size_px": 512,
+  "bytes": 94086,
+  "seamless": true,
+  "notes": "dark mossy forest floor, teal tint"
+ },
+ {
+  "id": "crystal",
+  "file": "crystal.webp",
+  "size_px": 512,
+  "bytes": 91534,
+  "seamless": true,
+  "notes": "pale lilac frosty ground"
+ },
+ {
+  "id": "rust",
+  "file": "rust.webp",
+  "size_px": 512,
+  "bytes": 119960,
+  "seamless": true,
+  "notes": "reddish-brown rusty gravel"
+ },
+ {
+  "id": "rock",
+  "file": "rock.webp",
+  "size_px": 512,
+  "bytes": 71484,
+  "seamless": true,
+  "notes": "grey cliff rock"
+ },
+ {
+  "id": "plaza",
+  "file": "plaza.webp",
+  "size_px": 512,
+  "bytes": 69020,
+  "seamless": true,
+  "notes": "stone paving slabs (two-tone warm grey / beige)"
+ }
+]

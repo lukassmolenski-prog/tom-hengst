@@ -1,0 +1,464 @@
+[
+ {
+  "id": "hero",
+  "file": "hero.glb",
+  "kind": "rigged",
+  "tris": 23190,
+  "bytes": 1094556,
+  "clips": [
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Run",
+    "dur": 0.7
+   },
+   {
+    "name": "Slash1",
+    "dur": 1.5
+   },
+   {
+    "name": "Slash2",
+    "dur": 3.167
+   },
+   {
+    "name": "Heavy",
+    "dur": 2.2
+   },
+   {
+    "name": "Block",
+    "dur": 3.467
+   },
+   {
+    "name": "Roll",
+    "dur": 1.833
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   },
+   {
+    "name": "Sit",
+    "dur": 10.667
+   },
+   {
+    "name": "Cheer",
+    "dur": 9.333
+   },
+   {
+    "name": "Whirl",
+    "dur": 5.9
+   },
+   {
+    "name": "Shout",
+    "dur": 6.167
+   },
+   {
+    "name": "Knee",
+    "dur": 2.5
+   },
+   {
+    "name": "Guard",
+    "dur": 1.667
+   },
+   {
+    "name": "Bash",
+    "dur": 2.367
+   }
+  ]
+ },
+ {
+  "id": "sword",
+  "file": "sword.glb",
+  "kind": "static",
+  "height_m": 1.15,
+  "tris": 2738,
+  "bytes": 65700,
+  "size": [
+   0.189,
+   1.15,
+   0.373
+  ]
+ },
+ {
+  "id": "shield",
+  "file": "shield.glb",
+  "kind": "static",
+  "height_m": 0.75,
+  "tris": 2758,
+  "bytes": 89172,
+  "size": [
+   0.191,
+   0.75,
+   0.754
+  ]
+ },
+ {
+  "id": "unicorn",
+  "file": "unicorn.glb",
+  "kind": "static",
+  "height_m": 2.3,
+  "tris": 29900,
+  "bytes": 473872,
+  "size": [
+   0.791,
+   2.3,
+   2.849
+  ]
+ },
+ {
+  "id": "car",
+  "file": "car.glb",
+  "kind": "static",
+  "height_m": 1.516,
+  "tris": 23553,
+  "bytes": 400720,
+  "size": [
+   2.545,
+   1.516,
+   4.3
+  ]
+ },
+ {
+  "id": "vampire",
+  "file": "vampire.glb",
+  "kind": "rigged",
+  "tris": 10813,
+  "bytes": 796840,
+  "clips": [
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Run",
+    "dur": 0.7
+   },
+   {
+    "name": "Attack",
+    "dur": 1.5
+   },
+   {
+    "name": "Attack2",
+    "dur": 3.167
+   },
+   {
+    "name": "Scream",
+    "dur": 2.8
+   },
+   {
+    "name": "Cast",
+    "dur": 2.667
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "boss",
+  "file": "boss.glb",
+  "kind": "rigged",
+  "tris": 18369,
+  "bytes": 1224268,
+  "clips": [
+   {
+    "name": "Cast",
+    "dur": 2.667
+   },
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Walk",
+    "dur": 5.5
+   },
+   {
+    "name": "Swipe",
+    "dur": 2.2
+   },
+   {
+    "name": "Slash",
+    "dur": 3.167
+   },
+   {
+    "name": "Slam",
+    "dur": 1.833
+   },
+   {
+    "name": "Roar",
+    "dur": 2.8
+   },
+   {
+    "name": "Taunt",
+    "dur": 4.833
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "knight",
+  "file": "knight.glb",
+  "kind": "rigged",
+  "tris": 7613,
+  "bytes": 682824,
+  "clips": [
+   {
+    "name": "Stagger",
+    "dur": 3.7
+   },
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Run",
+    "dur": 0.7
+   },
+   {
+    "name": "Slash",
+    "dur": 1.5
+   },
+   {
+    "name": "Slash2",
+    "dur": 3.167
+   },
+   {
+    "name": "Guard",
+    "dur": 1.667
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "ork",
+  "file": "ork.glb",
+  "kind": "rigged",
+  "tris": 17880,
+  "bytes": 1339236,
+  "clips": [
+   {
+    "name": "Walk",
+    "dur": 5.5
+   },
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Run",
+    "dur": 0.7
+   },
+   {
+    "name": "Attack",
+    "dur": 1.833
+   },
+   {
+    "name": "Attack2",
+    "dur": 2.2
+   },
+   {
+    "name": "Taunt",
+    "dur": 4.833
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "ghul",
+  "file": "ghul.glb",
+  "kind": "rigged",
+  "tris": 12939,
+  "bytes": 946508,
+  "clips": [
+   {
+    "name": "Scream",
+    "dur": 2.8
+   },
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Run",
+    "dur": 0.7
+   },
+   {
+    "name": "Walk",
+    "dur": 4.1
+   },
+   {
+    "name": "Attack",
+    "dur": 1.5
+   },
+   {
+    "name": "Attack2",
+    "dur": 1.833
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "spor",
+  "file": "spor.glb",
+  "kind": "rigged",
+  "tris": 6986,
+  "bytes": 544032,
+  "clips": [
+   {
+    "name": "Walk",
+    "dur": 4.833
+   },
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Cast",
+    "dur": 2.667
+   },
+   {
+    "name": "Scream",
+    "dur": 2.8
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "wolf",
+  "file": "wolf.glb",
+  "kind": "rigged",
+  "tris": 7993,
+  "bytes": 573392,
+  "clips": [
+   {
+    "name": "Walk",
+    "dur": 4.1
+   },
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Run",
+    "dur": 0.7
+   },
+   {
+    "name": "Attack",
+    "dur": 1.5
+   },
+   {
+    "name": "Attack2",
+    "dur": 3.167
+   },
+   {
+    "name": "Scream",
+    "dur": 2.8
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Death",
+    "dur": 2.967
+   }
+  ]
+ },
+ {
+  "id": "mirja",
+  "file": "mirja.glb",
+  "kind": "rigged",
+  "tris": 18543,
+  "bytes": 1094628,
+  "clips": [
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Cheer",
+    "dur": 9.333
+   },
+   {
+    "name": "Shout",
+    "dur": 6.167
+   }
+  ]
+ },
+ {
+  "id": "alva",
+  "file": "alva.glb",
+  "kind": "rigged",
+  "tris": 16586,
+  "bytes": 983760,
+  "clips": [
+   {
+    "name": "Idle",
+    "dur": 4
+   },
+   {
+    "name": "Hit",
+    "dur": 1.633
+   },
+   {
+    "name": "Cheer",
+    "dur": 9.333
+   },
+   {
+    "name": "Shout",
+    "dur": 6.167
+   }
+  ]
+ }
+]
